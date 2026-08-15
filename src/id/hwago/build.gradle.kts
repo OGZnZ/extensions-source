@@ -9,6 +9,7 @@ keiyoushi {
     versionCode = 57
     contentWarning = ContentWarning.MIXED
     libVersion = "1.6"
+    theme = "astrohwago"
 
     source {
         lang = "id"
